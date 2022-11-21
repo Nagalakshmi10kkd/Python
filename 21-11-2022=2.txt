@@ -1,0 +1,9 @@
+      assignment-2
+
+>>> a=int(input("Enter a value:"))
+Enter a value35
+>>> b=int(input("Enter b value:"))
+Enter b value:20
+>>> c=a-b
+>>> print(c)
+>>>15
