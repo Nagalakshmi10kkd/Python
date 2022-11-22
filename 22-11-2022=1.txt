@@ -1,0 +1,30 @@
+input:
+stdno=int(input("enter student number"))
+stdname=input("enter student name")
+group=input("enter group name")
+gender=input("enter student gender")
+phno=int(input("enter phone number"))
+address=input("enter address")
+marks=float(input("degree_percentage"))
+print("the student number is :",stdno)
+print("the student name is :",stdname)
+print("the student group is :",group)
+print("the student gender is :",gender)
+print("the student phone number is :",phno)
+print("the student address is :",address)
+print("the student marks is :",marks)
+output:
+enter student number1234
+enter student namenagalakshmi
+enter group namedata science
+enter student genderfemale
+enter phone number7702322014
+enter addressbridge down , penuguduru
+degree_percentage8.76
+the student number is : 1234
+the student name is : nagalakshmi
+the student group is : data science
+the student gender is : female
+the student phone number is : 7702322014
+the student address is : bridge down , penuguduru
+the student marks is : 8.76
